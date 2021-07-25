@@ -1,2 +1,2 @@
 # exoplanet-analysis
-Codes used to perform analysis on Exoplanet catalogs from NASA Exoplanet Archive
+Codes used to perform analysis on Exoplanet catalogs from NASA Exoplanet Archive in my paper "Up-To-Date Demographics Survey of 4434 Confirmed Exoplanets and an Insight of Sensitivity of Detection Methods". Includes codes, data used in my analysis, plots generated, and updated exoplanet catalogs with classification and habitability columns. Classification scheme is adapted from the paper "Exoplanet Classification and Yield Estimates for Direct Imaging Missions", and Habitability scheme is adapted from the paper "Habitable Zones Around Main-Sequence Stars: New Estimates".
