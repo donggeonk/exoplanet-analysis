@@ -1,2 +1,4 @@
 # Data Analysis on Confirmed Exoplanet Dataset 
 Codes used to perform analysis on Exoplanet catalogs from NASA Exoplanet Archive for my paper "Up-To-Date Demographics Survey of 4434 Confirmed Exoplanets and an Insight of Sensitivity of Detection Methods". Includes codes, dataset used in my analysis, plots generated, and updated exoplanet catalogs with classification and habitability columns. Classification scheme is adapted from the paper "Exoplanet Classification and Yield Estimates for Direct Imaging Missions", and Habitability scheme is adapted from the paper "Habitable Zones Around Main-Sequence Stars: New Estimates".
+
+Paper: https://doi.org/10.70121/001c.121643
